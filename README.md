@@ -17,23 +17,22 @@ The goal is to showcase practical skills in setting up cloud infrastructure, con
 ---
 
 ## Screenshots
+## Screenshots
 
 ### Azure Portal Resource Group
-![Resource Group](./Screenshot%202025-09-28%20at%2014.55.54.png)
+![Resource Group](https://raw.githubusercontent.com/DevTech7/DevTech7/main/Screenshot%202025-09-28%20at%2014.55.54.png)
 
 ### VM Deployment Summary
-![VM Deployment](./Screenshot%202025-09-28%20at%2015.00.20.png)
+![VM Deployment](https://raw.githubusercontent.com/DevTech7/DevTech7/main/Screenshot%202025-09-28%20at%2015.00.20.png)
 
 ### Remote Desktop Login
-![RDP Login](./Screenshot%202025-09-28%20at%2015.10.12.png)
+![RDP Login](https://raw.githubusercontent.com/DevTech7/DevTech7/main/Screenshot%202025-09-28%20at%2015.10.12.png)
 
 ### Command Prompt ipconfig
-![ipconfig](./Screenshot%202025-09-28%20at%2015.17.01.png)
+![ipconfig](https://raw.githubusercontent.com/DevTech7/DevTech7/main/Screenshot%202025-09-28%20at%2015.17.01.png)
 
 ### Command Prompt ping 8.8.8.8
-![ping 8.8.8.8](./Screenshot%202025-09-28%20at%2015.19.26.png)
-
----
+![ping 8.8.8.8](https://raw.githubusercontent.com/DevTech7/DevTech7/main/Screenshot%202025-09-28%20at%2015.19.26.png)
 
 ## Demonstration
 This project illustrates how to:  
