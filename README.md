@@ -32,9 +32,7 @@ The goal is to showcase practical skills in setting up cloud infrastructure, con
 8. Network configuration test using `ipconfig`  
 9. Connectivity test using `ping 8.8.8.8 -n 4`
 
----
 
-## Screenshots
 
 
 
