@@ -37,43 +37,42 @@ The goal is to showcase practical skills in setting up cloud infrastructure, con
 
 
 ## Screenshots
-## Screenshots
 
 ### 1. Azure Resource Group Overview
-![Resource Group Overview](images/Resource Group Overview.png)  
-*Shows the newly created resource group in the Azure portal, confirming successful deployment and region settings.*
+![Resource Group Overview](images/ResourceGroupOverview.png)  
+Shows the newly created resource group in the Azure portal, confirming successful deployment and location settings.
 
 ### 2. Virtual Network Overview
-![Virtual Network Overview](images/Virtual Network Overview.png)  
-*Displays the address range and subnet configuration for the new virtual network.*
+![Virtual Network Overview](images/VirtualNetworkOverview.png)  
+Displays the address range and subnet configuration for the new virtual network.
 
 ### 3. VM Validation
-![VM Validation](images/VM Validation.png)  
-*Shows successful validation of virtual machine settings before deployment (region, image, size, and credentials).*
+![VM Validation](images/VMValidation.png)  
+Shows successful validation of virtual machine settings before deployment (region, image, size, and credentials).
 
 ### 4. VM Deployment
-![VM Deployment](images/VM Deployment.png)  
-*Confirms the virtual machine deployment was completed successfully with its assigned configuration.*
+![VM Deployment](images/VMDeployment.png)  
+Confirms the virtual machine deployment was completed successfully with its assigned configuration.
 
 ### 5. VM Overview with Public Address
-![VM Overview with Public Address](images/VM Overview with public address.png)  
-*Displays the VM overview page, including the assigned public IP used for RDP connectivity.*
+![VM Overview with Public Address](images/VMOverviewwithpublicaddress.png)  
+Displays the VM overview page, including the assigned public IP address used for RDP connectivity.
 
 ### 6. RDP Setup
-![RDP Setup](images/RDP Setup.png)  
-*Shows configuration of Remote Desktop Protocol (RDP) settings and security warning prior to login.*
+![RDP Setup](images/RDPSetup.png)  
+Shows configuration of Remote Desktop Protocol (RDP) settings and the security warning prior to login.
 
 ### 7. RDP Connection to VM
-![RDP Connection to VM](images/RDP connection to VM.png)  
-*Confirms a successful RDP session to the virtual machine, proving external connectivity.*
+![RDP Connection to VM](images/RDPconnectionToVM.png)  
+Confirms a successful RDP session to the virtual machine, indicating external connectivity is working.
 
 ### 8. IP Configuration Output
-![IP Configuration Output](images/Ipconfig Output.png)  
-*Displays results of the `ipconfig` command showing IPv4, subnet mask, and default gateway.*
+![IP Configuration Output](images/IpconfigOutput.png)  
+Displays IP configuration details showing network adapter information within the virtual machine.
 
-### 9. Ping Test (8.8.8.8 -n 4)
-![Ping Test](images/ping 8.8.8.8 -n-4.png)  
-*Demonstrates successful external connectivity with consistent ping replies to Google’s DNS.*
+### 9. Ping Test
+![Ping Test](images/ping8.8.8.8-n-4.png)  
+Validates external network connectivity using ICMP ping to Google’s DNS server (8.8.8.8) with four echo requests.
 
 
 
