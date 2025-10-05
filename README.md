@@ -37,6 +37,7 @@ The goal is to showcase practical skills in setting up cloud infrastructure, con
 
 
 ## Screenshots
+## Screenshots
 
 ### 1. Azure Resource Group Overview
 ![Resource Group Overview](images/Resource Group Overview.png)  
@@ -67,11 +68,11 @@ The goal is to showcase practical skills in setting up cloud infrastructure, con
 *Confirms a successful RDP session to the virtual machine, proving external connectivity.*
 
 ### 8. IP Configuration Output
-![IP Configuration Output](images/Ipconfig Output .png)  
+![IP Configuration Output](images/Ipconfig Output.png)  
 *Displays results of the `ipconfig` command showing IPv4, subnet mask, and default gateway.*
 
 ### 9. Ping Test (8.8.8.8 -n 4)
-![Ping Test](images/ping 8.8.8.8 -n-4 .png)  
+![Ping Test](images/ping 8.8.8.8 -n-4.png)  
 *Demonstrates successful external connectivity with consistent ping replies to Google’s DNS.*
 
 
