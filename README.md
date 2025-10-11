@@ -59,19 +59,19 @@ Deployment completed successfully with assigned configuration.
 Displays the VM overview page showing the assigned Public IP for RDP.
 
 ### 6. RDP Setup
-![RDP Setup](images/RDPSetup.png)  
+![RDP Setup](images/RDPSetup.png?raw=1)
 Shows configuration of Remote Desktop Protocol (RDP) settings and the security prompt prior to login.
 
 ### 7. RDP Connection to VM
-![RDP Connection to VM](images/RDPconnectionToVM.png)  
+![RDP Connection to VM](images/RDPconnectionToVM.png?raw=1)
 Confirms a successful RDP session to the virtual machine, indicating external connectivity is working.
 
 ### 8. IP Configuration Output
-![IP Configuration Output](images/IpconfigOutput.png)  
+![IP Configuration Output](images/IpconfigOutput.png?raw=1)
 Displays IP configuration details showing network adapter information within the virtual machine.
 
 ### 9. Ping Test (8.8.8.8 -n 4)
-![Ping Test](images/ping8.8.8.8-n-4.png)  
+![Ping Test](images/ping8.8.8.8-n-4.png?raw=1)
 Validates external network connectivity using ICMP ping to Google’s DNS server (8.8.8.8) with four echo requests.
 
 
