@@ -67,7 +67,7 @@ Shows configuration of Remote Desktop Protocol (RDP) settings and the security p
 Confirms a successful RDP session to the virtual machine, indicating external connectivity is working.
 
 ### 8. IP Configuration Output
-![IP Configuration Output](images/IpconfigOutput.png?raw=1)
+![IP Configuration Output](images/ipconfigoutput.png?raw=1)
 Displays IP configuration details showing network adapter information within the virtual machine.
 
 ### 9. Ping Test (8.8.8.8 -n 4)
