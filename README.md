@@ -63,7 +63,7 @@ Displays the VM overview page showing the assigned Public IP for RDP.
 Shows configuration of Remote Desktop Protocol (RDP) settings and the security prompt prior to login.
 
 ### 7. RDP Connection to VM
-![RDP Connection to VM](images/RDPconnectionToVM.png?raw=1)
+![RDP Connection to VM](images/rdpconnectiontovm.png?raw=1)
 Confirms a successful RDP session to the virtual machine, indicating external connectivity is working.
 
 ### 8. IP Configuration Output
