@@ -48,19 +48,19 @@ Displays the address range and subnet configuration for the new virtual network.
 
 ### 3. VM Validation
 ![VM Validation](images/VMValidation.png)  
-Shows successful validation of virtual machine settings before deployment (region, image, size, and credentials).
+Validation passed prior to deployment (region, image, size, and credentials).
 
 ### 4. VM Deployment
 ![VM Deployment](images/VMDeployment.png)  
-Confirms the virtual machine deployment was completed successfully with its assigned configuration.
+Deployment completed successfully with assigned configuration.
 
 ### 5. VM Overview with Public Address
 ![VM Overview with Public Address](images/VMOverviewwithpublicaddress.png)  
-Displays the VM overview page, including the assigned public IP address used for RDP connectivity.
+Displays the VM overview page showing the assigned Public IP for RDP.
 
 ### 6. RDP Setup
 ![RDP Setup](images/RDPSetup.png)  
-Shows configuration of Remote Desktop Protocol (RDP) settings and the security warning prior to login.
+Shows configuration of Remote Desktop Protocol (RDP) settings and the security prompt prior to login.
 
 ### 7. RDP Connection to VM
 ![RDP Connection to VM](images/RDPconnectionToVM.png)  
@@ -70,7 +70,7 @@ Confirms a successful RDP session to the virtual machine, indicating external co
 ![IP Configuration Output](images/IpconfigOutput.png)  
 Displays IP configuration details showing network adapter information within the virtual machine.
 
-### 9. Ping Test
+### 9. Ping Test (8.8.8.8 -n 4)
 ![Ping Test](images/ping8.8.8.8-n-4.png)  
 Validates external network connectivity using ICMP ping to Google’s DNS server (8.8.8.8) with four echo requests.
 
