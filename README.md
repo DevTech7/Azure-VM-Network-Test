@@ -59,7 +59,7 @@ Deployment completed successfully with assigned configuration.
 Displays the VM overview page showing the assigned Public IP for RDP.
 
 ### 6. RDP Setup
-![RDP Setup](images/RDPSetup.png?raw=1)
+![RDP Setup](images/rdpsetup.png?raw=1)
 Shows configuration of Remote Desktop Protocol (RDP) settings and the security prompt prior to login.
 
 ### 7. RDP Connection to VM
